@@ -17,9 +17,13 @@ An ectenna is an antenna designed to be embedded in an electronic device. It is 
 
 ## Low-Power WP Harvesting
 
-Power can be transfered by a propagating electromagnetic wave, radiated
-and received by antennas which do not load each other because they are
-in each other’s far fields. In this case, the wireless transfer efficiency,
+Power can be transfered by a propagating electromagnetic wave, radiated and received by antennas which do not load each other because they are in each other’s far fields. 
+
+## Medium-Power WPT
+
+Medium-power WPT in several watt ranges at lower frequencies is commer-cially available for personal devices and is typically done reactively at very
+short distances through a tightly-coupled transformer using standard circuits
+The usual operating frequencies are around 100 kHz, although more recently ISM bands in the 6–27 MHz range have also been used.
 
 
 ## Use case:
