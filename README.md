@@ -20,4 +20,10 @@ An ectenna is an antenna designed to be embedded in an electronic device. It is 
 
 
 + Wireless Power Transfer for Electric Vehicles and Mobile Devices
++ Microwave Power Transfer
++ Optical Power Transfer - Optical PT
 
+
+## History
+
++ Tower for WPT Experiment by N. Tesla (1899)
