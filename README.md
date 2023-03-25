@@ -36,7 +36,24 @@ higher power levels, magnetron phased-array spatial power combinig
 ## Rectifiers for High Power at Microwave Frequencies At higher power levels (directive beaming), Schottky diodes can break down, and some researchers demonstrated approaches to distribute the power between multiple diodes. In 100W at 2.45 GHz 
 
 
+## Important params
+
++ Wide-band Rectifier
+
+
+
 ## Use case:
+
+zastosowania w zależności od mocy:
+
+### Niska moc:
++ sensory wbudowane w odzież
++ sensory w specjalnych strefach, mobilne
++ drony, roboty, pojazdy autonomiczne
++ karty dostępowe, pomiar tracking
++ 
+
+
 
 
 + Wireless Power Transfer for Electric Vehicles and Mobile Devices
@@ -47,6 +64,9 @@ higher power levels, magnetron phased-array spatial power combinig
 + NASA laser-powered drone and 
 + climber at the NASA Beam Power Challenge test
 + Inductive power transfer systems (IPTSs)
+
+
+
 
 ## History
 
