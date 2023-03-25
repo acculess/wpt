@@ -24,6 +24,18 @@ An ectenna is an antenna designed to be embedded in an electronic device. It is 
 + Optical Power Transfer - Optical PT
 
 
++ NASA laser-powered drone and 
++ climber at the NASA Beam Power Challenge test
++ Inductive power transfer systems (IPTSs)
+
 ## History
 
 + Tower for WPT Experiment by N. Tesla (1899)
+
++ Power Circuit Breaker Theory and Design
++ Industrial Microwave Heating 
++ Conduction and Induction Heating
++ Statistical Techniques for High Voltage Engineering
++ Electricity Economics and Planning 
++ Electricity Distribution Network Design
++ Artificial Intelligence Techniques in Power Systems
