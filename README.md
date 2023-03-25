@@ -15,6 +15,12 @@ A rectenna is a type of antenna that is designed to receive and convert radio fr
 An ectenna is an antenna designed to be embedded in an electronic device. It is used to receive and transmit radio frequency signals, allowing the device to communicate wirelessly with other devices.
 
 
+## Low-Power WP Harvesting
+
+Power can be transfered by a propagating electromagnetic wave, radiated
+and received by antennas which do not load each other because they are
+in each other’s far fields. In this case, the wireless transfer efficiency,
+
 
 ## Use case:
 
@@ -31,6 +37,7 @@ An ectenna is an antenna designed to be embedded in an electronic device. It is 
 ## History
 
 + Tower for WPT Experiment by N. Tesla (1899)
+
 
 + Power Circuit Breaker Theory and Design
 + Industrial Microwave Heating 
