@@ -26,6 +26,16 @@ short distances through a tightly-coupled transformer using standard circuits
 The usual operating frequencies are around 100 kHz, although more recently ISM bands in the 6–27 MHz range have also been used.
 
 
+High-Power Directive Beaming
+
+To achieve the high power necessary for high-power directive beaming transmitters, two approaches have been considered: solid-state combining in an active phased array and magnetrons. 
+There are many works on solid-state phased array, and specifically spatial combining arrays.
+The beamforming is very relevant for this application, and for even
+higher power levels, magnetron phased-array spatial power combinig
+
+## Rectifiers for High Power at Microwave Frequencies At higher power levels (directive beaming), Schottky diodes can break down, and some researchers demonstrated approaches to distribute the power between multiple diodes. In 100W at 2.45 GHz 
+
+
 ## Use case:
 
 
